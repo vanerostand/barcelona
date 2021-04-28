@@ -1,1 +1,18 @@
 /*PROYECTO GRUPAL - BARCELONA*/
+body {
+    background-color: rgb(186, 190, 190);
+}
+#letra{
+    color: rgb(4, 8, 5);
+    font-style: italic;
+}
+#carouselExampleIndicators{
+    padding-top: 10px;
+}
+footer{
+    margin-top: 15px;
+    background-color: black;
+    width: 100vw;
+    height: 50px;
+}
+
