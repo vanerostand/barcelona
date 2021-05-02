@@ -4,6 +4,6 @@
 
 ## Integrantes
 - Jesica Costilla
-- Luciana Maso
+- Luciana Masso
 - Vanesa Rostand
 - Victoria Solda
