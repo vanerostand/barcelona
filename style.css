@@ -1,7 +1,7 @@
 /*PROYECTO GRUPAL - BARCELONA*/
 body {
     background-color: rgb(186, 190, 190);
-    color: aliceblue;
+    color: rgb(61, 60, 60);
 }
 #letra{
     color: rgb(4, 8, 5);
@@ -29,6 +29,7 @@ footer{
     width: 100vw;
     height: 50px;
     text-align: center;
+    color: rgb(224, 188, 188);
 }
 
 /*seccion barrio*/
